@@ -1,0 +1,8 @@
+1. deposit & withdraw page implement
+2. deposit & withdraw js function
+3. get buy/sell orders for specified token pair
+4. token pair list display and change trigger implement
+5. trade record list for specified token pair
+6. trading view display the k-line for specified token pair
+7. limit order for buy/sell implemention, using 3rd party wallet to sign trasaction, like scatter or other open source wallet
+8. eos balance & xpa balance

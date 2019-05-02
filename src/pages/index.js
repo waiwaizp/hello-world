@@ -1,0 +1,5 @@
+export { default as HomePage } from './HomePage'
+export { default as TradePage } from './TradePage'
+export { default as MarketPage } from './MarketPage'
+export { default as OrderHistoryPage } from './OrderHistoryPage'
+export { default as WalletPage } from './WalletPage'
